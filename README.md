@@ -4,3 +4,4 @@ This repository contains my assignments
 [assignment 3](https://github.com/isaclevis/Assignments/blob/master/Assignment%20week%203%20notebook%20.ipynb)
 [assignment 4](https://github.com/isaclevis/Assignments/blob/master/Assignment%20notebook%20week%204.%20.ipynb)
 [assignment 5](https://github.com/isaclevis/Assignments/blob/master/Assignment%20notebook%20week%206%20af.ipynb) 
+[assignment 6](https://github.com/isaclevis/Assignments/blob/master/This%20notebook%20week%207%20before%20class%20af.ipynb)
